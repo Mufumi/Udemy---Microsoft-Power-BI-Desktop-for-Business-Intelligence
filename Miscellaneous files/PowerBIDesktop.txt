@@ -1,1 +1,0 @@
-This download has been deprecated.  Please visit https://aka.ms/pbiSingleInstaller to download the latest release of Power BI Desktop.
