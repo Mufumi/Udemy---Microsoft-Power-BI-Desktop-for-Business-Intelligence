@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" src="https://github.com/Mufumi/Udemy---Microsoft-Power-BI-Desktop-for-Business-Intelligence/blob/main/Power_BI_logo.png">
+  <img width="800" src="https://github.com/Mufumi/Udemy---Microsoft-Power-BI-Desktop-for-Business-Intelligence/blob/main/Power_BI_logo.png">
 </p>
 
 # Udemy-Microsoft-Power-BI-Desktop-for-Business-Intelligence
