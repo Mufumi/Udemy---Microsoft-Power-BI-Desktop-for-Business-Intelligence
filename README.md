@@ -1,7 +1,7 @@
 # Udemy-Microsoft-Power-BI-Desktop-for-Business-Intelligence
-This repository contains Power BI reports generated in the Udemy Microsoft Power BI Desktop for Business Intelligence online course.
+This repository contains Power BI reports generated in the Udemy Microsoft Power BI Desktop for Business Intelligence online course. The course outline includes:
 
-* Introduciton to Power BI Desktop
+* Introduction to Power BI Desktop
 * Connecting and Shaping Data
 * Creating a Data Model
 * Adding Calculated Fields with DAX
