@@ -32,6 +32,11 @@ To obtain a high level view of the perfomance of the organization, we provide an
 
 ## Customer Detail
 
+A granular look on the customers can also be obtained with an analysis performed to obtain details such as:
+
+* The top customer
+* 
+
 <p align="center">
   <img width="1200" src="https://github.com/Mufumi/Udemy---Microsoft-Power-BI-Desktop-for-Business-Intelligence/blob/main/Adventure%20Works/Documentation%20Illustrations/AW_customer_detail.png" alt="Adventure Works Customer Detail">
 </p>
