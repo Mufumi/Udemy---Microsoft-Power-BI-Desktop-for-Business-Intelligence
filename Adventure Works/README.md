@@ -20,7 +20,7 @@ The Adventure Works ERD shows how the different tables in the project can be int
 
 ## Executive Summary
 
-To obtain a high level view of the perfomance of the organization, we provide an executive summary. This includes
+To obtain a high level view of the perfomance of the organization, we provide an executive summary. This includes:
 
 * Orders by category and subcatergory
 * Product detail such as contribution to order and return (refund) rate of the product
