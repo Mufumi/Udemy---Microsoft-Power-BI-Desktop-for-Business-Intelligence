@@ -7,23 +7,24 @@ This repository contains Power BI reports generated in the Udemy Microsoft Power
 
 ## Introduction to Power BI Desktop ##
 
-Where we install Power BI, explore the Power BI workflow and compare Power BI and Excel
+Installing Power BI, explore the Power BI workflow and compare Power BI and Excel
 
 ## Connecting and Shaping Data ##
 
-Included the connection to source data, shaping and transforming tables, editing, merging and appending queries
+Connecting to source data, shaping and transforming tables, editing, merging and appending queries
 
 ## Creating a Data Model ##
 
-
+Building relational models, creating table relationships,understanding cardinality, exploring filter flow etc.
 
 ## Adding Calculated Fields with DAX ##
 
-
+Understanding DAX syntax, adding calculated columns and measures, writing common formulas and functions etc.
 
 ## Visualizing Data with Reports ##
 
-
+Inserting charts and visuals, customizing formats, editing interactions, applying filters and bookmarks etc.
 
 ## Bonus Course Project ##
 
+Applying all the skills developed throughout the course to build a comprehensive BI report from a different dataset
