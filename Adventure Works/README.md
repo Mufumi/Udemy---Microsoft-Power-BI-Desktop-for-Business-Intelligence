@@ -12,7 +12,7 @@ This is a *README* for the Adventure Works project which has the following datas
 
 ## Adventure Works Entity Relationship Diagram (ERD) ##
 
-The Adventure Works ERD shows how the different tables in the project can be interlinked. Additionally, the relationships between the tables as well as the table keys are illustrated.
+The Adventure Works ERD shows how the different tables in the project can be interlinked. Additionally, the relationships between the tables, as well as the table keys, are illustrated.
 
 <p align="center">
   <img width="1200" src="https://github.com/Mufumi/Udemy---Microsoft-Power-BI-Desktop-for-Business-Intelligence/blob/main/Adventure%20Works/Documentation%20Illustrations/AW_ERD.png" alt="Adventure Works ERD">
