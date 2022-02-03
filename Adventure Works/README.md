@@ -44,11 +44,23 @@ A granular look on the customers can also be obtained with an analysis performed
 
 ## Product Summary
 
+A summary of the product details includes
+
+* The most sold product
+* Targets such as:
+  * Current month order vs target
+	* Current month revenue vs target
+	* Current month refund vs previous month
+* Forecast which includes a slider that aims to predict how price adjustment affects weekly profit
+* Chart indicating week to week refunds
+
 <p align="center">
   <img width="1200" src="https://github.com/Mufumi/Udemy---Microsoft-Power-BI-Desktop-for-Business-Intelligence/blob/main/Adventure%20Works/Documentation%20Illustrations/AW_Product_summary.png" alt="Adventure Works Product Summary">
 </p>
 
 ## Order Summary
+
+This page indicates the details of order quantities and their contribution to revenue
 
 <p align="center">
   <img width="1200" src="https://github.com/Mufumi/Udemy---Microsoft-Power-BI-Desktop-for-Business-Intelligence/blob/main/Adventure%20Works/Documentation%20Illustrations/AW_Order_summary.png" alt="Adventure Works Order Summary">
