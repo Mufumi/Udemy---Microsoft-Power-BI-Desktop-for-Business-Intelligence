@@ -49,8 +49,8 @@ A summary of the product details includes
 * The most sold product
 * Targets such as:
   * Current month order vs target
-	* Current month revenue vs target
-	* Current month refund vs previous month
+  * Current month revenue vs target
+  * Current month refund vs previous month
 * Forecast which includes a slider that aims to predict how price adjustment affects weekly profit
 * Chart indicating week to week refunds
 
