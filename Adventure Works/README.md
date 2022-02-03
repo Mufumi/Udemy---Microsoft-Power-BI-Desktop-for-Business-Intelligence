@@ -44,7 +44,7 @@ A granular look on the customers can also be obtained with an analysis performed
 
 ## Product Summary
 
-A summary of the product details includes
+A summary of the product details includes:
 
 * The most sold product
 * Targets such as:
