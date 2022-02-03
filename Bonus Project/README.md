@@ -1,6 +1,6 @@
 ## Topline performance
 
-This dashborad provides an overview of Maven Market's performance with information that includes:
+This dashborad provides an overview of Maven Market's (a fictional grocery store) performance with information that includes:
 
 * Product details namely:
   * Brand
