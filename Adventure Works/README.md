@@ -1,4 +1,4 @@
-This is a *README* for the Adventure Works project which uses data from a hypothetical company that sells bicycles and cycling related material. The project has the following dataset:
+This is a *README* for the Adventure Works project which uses data from a fictional company that sells bicycles and cycling related material. The project has the following dataset:
 
 * Calendar
 * Customers
