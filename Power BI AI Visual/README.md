@@ -16,6 +16,8 @@ For this visual, our primary question was *what influences project outcome to be
 
 ## Decomposition Tree
 
+Another comprehensive visualization tool is the decision tree which for this case provides a granular look at the
+
 <p align="center">
   <img width="1200" src="https://github.com/Mufumi/Udemy---Microsoft-Power-BI-Desktop-for-Business-Intelligence/blob/main/Power%20BI%20AI%20Visual/Documentation%20Illustrations/Kickstarters_Key_Decomposition_Tree.png">
 </p>
