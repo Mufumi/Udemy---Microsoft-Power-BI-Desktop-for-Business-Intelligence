@@ -2,7 +2,7 @@
 
 This dashborad provides an overview of Maven Market's performance with information that includes:
 
-* Prdocut details namely:
+* Product details namely:
   * Brand
   * Total transaction per brand
   * Total profit
