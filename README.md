@@ -3,7 +3,7 @@
 </p>
 
 # Udemy-Microsoft-Power-BI-Desktop-for-Business-Intelligence
-This repository contains Power BI reports generated in the Udemy Microsoft Power BI Desktop for Business Intelligence online course. The [Adventure Works](https://www.canva.com/design/DAE7JBRaeWA/S7s4paAEmAdOGqEvjDvGxA/edit), [Maven Analytics](https://www.canva.com/design/DAE7JBRaeWA/S7s4paAEmAdOGqEvjDvGxA/edit) and [AI visual](https://www.canva.com/design/DAE7JBRaeWA/S7s4paAEmAdOGqEvjDvGxA/edit) reports illustrate the core capabilities of Power BI.
+This repository contains Power BI reports generated in the Udemy Microsoft Power BI Desktop for Business Intelligence online course. The [Adventure Works](https://github.com/Mufumi/Udemy---Microsoft-Power-BI-Desktop-for-Business-Intelligence/tree/main/Adventure%20Works), [Maven Analytics](https://www.canva.com/design/DAE7JBRaeWA/S7s4paAEmAdOGqEvjDvGxA/edit) and [AI visual](https://www.canva.com/design/DAE7JBRaeWA/S7s4paAEmAdOGqEvjDvGxA/edit) reports illustrate the core capabilities of Power BI.
 
 The course outline includes:
 
